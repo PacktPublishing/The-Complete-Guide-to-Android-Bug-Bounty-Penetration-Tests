@@ -1,0 +1,17 @@
+Android Studio: https://developer.android.com/studio
+
+Python: https://www.python.org/downloads/
+
+Burp Suite: https://portswigger.net/burp
+
+Drozer: https://labs.f-secure.com/tools/drozer/
+
+dex2jar: https://github.com/pxb1988/dex2jar
+
+Sign: https://github.com/appium-boneyard/sign
+
+ApkTool: https://ibotpeaches.github.io/Apktool/
+
+Jadx: https://github.com/skylot/jadx
+
+Insecure Bank App: https://github.com/dineshshetty/Android-InsecureBankv2
